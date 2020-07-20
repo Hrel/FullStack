@@ -34,5 +34,5 @@
 # 业余生活
 
 # <a id="test">公众号</a>
-![logo](/_media/WeChat.png ':size=WIDTHxHEIGHT')
+![logo](https://github.com/Hrel/FullStack/blob/master/_media/WeChat.png ':size=WIDTHxHEIGHT')
 
