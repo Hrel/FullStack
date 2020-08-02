@@ -21,15 +21,18 @@
 
 # ElasticSearch搜索引擎
 ## Kibana
-## Loki
 
-# JVM从入门到放弃
+# 分布式
+
+# JVM入门
 
 # 容器化
 ## Docker
 ## k8s
 
-# 工具
+# 工具推荐
+
+# 在职研究生
 
 # 业余生活
 
